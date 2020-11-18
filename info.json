@@ -1,0 +1,29 @@
+"bin": {
+  "resume-me": "./index.js"
+},
+{
+  "name": "Michael Pakulak",
+  "website": "https://lluth0r.github.io/Heroes-and-Villains//",
+  "linkedin": "https://www.linkedin.com/in/michael-pakulak-7372a05a/",
+  "github": "lluth0r",
+  "email": "mike.pakulak@gmail.com",
+  "resume": "",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Vue",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Wordpress",
+    "Drupal"
+  ],
+  "otherSkills": [
+    "Product Engineering",
+    "CAD",
+    "Mechanical Engineering"
+  ]
+}

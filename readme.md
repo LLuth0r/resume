@@ -1,0 +1,1 @@
+I've built an online, JSON/JS readable resume that will be hosted on my Github page.
